@@ -1,0 +1,459 @@
+[
+  {
+    "id": "5710eb6fb654c5140001fa19",
+    "is_impossible": false,
+    "question": "Which Spanish officer established the settlement at St. Augustine?",
+    "passage": "French Huguenots made two attempts to establish a haven in North America. In 1562, naval officer Jean Ribault led an expedition that explored Florida and the present-day Southeastern U.S., and founded the outpost of Charlesfort on Parris Island, South Carolina. The Wars of Religion precluded a return voyage, and the outpost was abandoned. In 1564, Ribault's former lieutenant René Goulaine de Laudonnière launched a second voyage to build a colony; he established Fort Caroline in what is now Jacksonville, Florida. War at home again precluded a resupply mission, and the colony struggled. In 1565 the Spanish decided to enforce their claim to La Florida, and sent Pedro Menéndez de Avilés, who established the settlement of St. Augustine near Fort Caroline. Menéndez' forces routed the French and executed most of the Protestant captives.",
+    "answers": [
+      "Pedro Menéndez de Avilés",
+      "Pedro Menéndez de Avilés",
+      "Pedro Menéndez de Avilés"
+    ]
+  },
+  {
+    "id": "572f567cb2c2fd1400568041",
+    "is_impossible": false,
+    "question": "Where does the Rhine river's measurement begin?",
+    "passage": "The length of the Rhine is conventionally measured in \"Rhine-kilometers\" (Rheinkilometer), a scale introduced in 1939 which runs from the Old Rhine Bridge at Constance (0 km) to Hoek van Holland (1036.20 km). The river length is significantly shortened from the river's natural course due to number of canalisation projects completed in the 19th and 20th century.[note 7] The \"total length of the Rhine\", to the inclusion of Lake Constance and the Alpine Rhine is more difficult to measure objectively; it was cited as 1,232 kilometres (766 miles) by the Dutch Rijkswaterstaat in 2010.[note 1]",
+    "answers": [
+      "Old Rhine Bridge at Constance",
+      "Old Rhine Bridge at Constance",
+      "the Old Rhine Bridge at Constance",
+      "Old Rhine Bridge at Constance",
+      "Old Rhine Bridge"
+    ]
+  },
+  {
+    "id": "57263eaa38643c19005ad373",
+    "is_impossible": false,
+    "question": "What does ctenophora rely on for digestion and respiration?",
+    "passage": "Ctenophora (/tᵻˈnɒfərə/; singular ctenophore, /ˈtɛnəfɔːr/ or /ˈtiːnəfɔːr/; from the Greek κτείς kteis 'comb' and φέρω pherō 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide. Their most distinctive feature is the ‘combs’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. Adults of various species range from a few millimeters to 1.5 m (4 ft 11 in) in size. Like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. In ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. Some authors combined ctenophores and cnidarians in one phylum, Coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. Increasing awareness of the differences persuaded more recent authors to classify them as separate phyla.",
+    "answers": [
+      "water flow through the body cavity",
+      "κτείς kteis 'comb' and φέρω pherō 'carry'",
+      "water flow through the body cavity"
+    ]
+  },
+  {
+    "id": "57111ab8a58dae1900cd6c3c",
+    "is_impossible": false,
+    "question": "What protestant religions made Northern European counties safe for Huguenot immigration?",
+    "passage": "Around 1685, Huguenot refugees found a safe haven in the Lutheran and Reformed states in Germany and Scandinavia. Nearly 50,000 Huguenots established themselves in Germany, 20,000 of whom were welcomed in Brandenburg-Prussia, where they were granted special privileges (Edict of Potsdam) and churches in which to worship (such as the Church of St. Peter and St. Paul, Angermünde) by Frederick William, Elector of Brandenburg and Duke of Prussia. The Huguenots furnished two new regiments of his army: the Altpreußische Infantry Regiments No. 13 (Regiment on foot Varenne) and 15 (Regiment on foot Wylich). Another 4,000 Huguenots settled in the German territories of Baden, Franconia (Principality of Bayreuth, Principality of Ansbach), Landgraviate of Hesse-Kassel, Duchy of Württemberg, in the Wetterau Association of Imperial Counts, in the Palatinate and Palatinate-Zweibrücken, in the Rhine-Main-Area (Frankfurt), in modern-day Saarland; and 1,500 found refuge in Hamburg, Bremen and Lower Saxony. Three hundred refugees were granted asylum at the court of George William, Duke of Brunswick-Lüneburg in Celle.",
+    "answers": [
+      "Lutheran and Reformed",
+      "Lutheran and Reformed",
+      "Lutheran and Reformed"
+    ]
+  },
+  {
+    "id": "5a25ab1bef59cd001a623c32",
+    "is_impossible": true,
+    "question": "What three sectors of public works are there?",
+    "passage": "In general, there are three sectors of construction: buildings, infrastructure and industrial. Building construction is usually further divided into residential and non-residential (commercial/institutional). Infrastructure is often called heavy/highway, heavy civil or heavy engineering. It includes large public works, dams, bridges, highways, water/wastewater and utility distribution. Industrial includes refineries, process chemical, power generation, mills and manufacturing plants. There are other ways to break the industry into sectors or markets.",
+    "answers": []
+  },
+  {
+    "id": "5ad247b0d7d075001a428b44",
+    "is_impossible": true,
+    "question": "What can't work to even the distribution of wealth?",
+    "passage": "Another cause is the rate at which income is taxed coupled with the progressivity of the tax system. A progressive tax is a tax by which the tax rate increases as the taxable base amount increases. In a progressive tax system, the level of the top tax rate will often have a direct impact on the level of inequality within a society, either increasing it or decreasing it, provided that income does not change as a result of the change in tax regime. Additionally, steeper tax progressivity applied to social spending can result in a more equal distribution of income across the board. The difference between the Gini index for an income distribution before taxation and the Gini index after taxation is an indicator for the effects of such taxation.",
+    "answers": []
+  },
+  {
+    "id": "5acf86ff77cf76001a6850fa",
+    "is_impossible": true,
+    "question": "Who's office did students occupy in a protest over rental policies in 1965?",
+    "passage": "The university experienced its share of student unrest during the 1960s, beginning in 1962, when students occupied President George Beadle's office in a protest over the university's off-campus rental policies. After continued turmoil, a university committee in 1967 issued what became known as the Kalven Report. The report, a two-page statement of the university's policy in \"social and political action,\" declared that \"To perform its mission in the society, a university must sustain an extraordinary environment of freedom of inquiry and maintain an independence from political fashions, passions, and pressures.\" The report has since been used to justify decisions such as the university's refusal to divest from South Africa in the 1980s and Darfur in the late 2000s.",
+    "answers": []
+  },
+  {
+    "id": "5726a14c708984140094cc53",
+    "is_impossible": false,
+    "question": "What must the adoption of laws which will have legal effect in the EU have?",
+    "passage": "The concept of legal certainty is recognised one of the general principles of European Union law by the European Court of Justice since the 1960s. It is an important general principle of international law and public law, which predates European Union law. As a general principle in European Union law it means that the law must be certain, in that it is clear and precise, and its legal implications foreseeable, specially when applied to financial obligations. The adoption of laws which will have legal effect in the European Union must have a proper legal basis. Legislation in member states which implements European Union law must be worded so that it is clearly understandable by those who are subject to the law. In European Union law the general principle of legal certainty prohibits Ex post facto laws, i.e. laws should not take effect before they are published. The doctrine of legitimate expectation, which has its roots in the principles of legal certainty and good faith, is also a central element of the general principle of legal certainty in European Union law. The legitimate expectation doctrine holds that and that \"those who act in good faith on the basis of law as it is or seems to be should not be frustrated in their expectations\".",
+    "answers": [
+      "a proper legal basis",
+      "a proper legal basis",
+      "a proper legal basis"
+    ]
+  },
+  {
+    "id": "57263cfcec44d21400f3dc8d",
+    "is_impossible": false,
+    "question": "What was Apple Talk ",
+    "passage": "AppleTalk was a proprietary suite of networking protocols developed by Apple Inc. in 1985 for Apple Macintosh computers. It was the primary protocol used by Apple devices through the 1980s and 90s. AppleTalk included features that allowed local area networks to be established ad hoc without the requirement for a centralized router or server. The AppleTalk system automatically assigned addresses, updated the distributed namespace, and configured any required inter-network routing. It was a plug-n-play system.",
+    "answers": [
+      "a proprietary suite of networking protocols developed by Apple Inc. in 1985",
+      "a proprietary suite of networking protocols developed by Apple Inc",
+      "proprietary suite of networking protocols"
+    ]
+  },
+  {
+    "id": "5a834caae60761001a2eb53a",
+    "is_impossible": true,
+    "question": "How do plankton fertilize their eggs?",
+    "passage": "Most species are hermaphrodites—a single animal can produce both eggs and sperm, meaning it can fertilize its own egg, not needing a mate. Some are simultaneous hermaphrodites, which can produce both eggs and sperm at the same time. Others are sequential hermaphrodites, in which the eggs and sperm mature at different times. Fertilization is generally external, although platyctenids' eggs are fertilized inside their parents' bodies and kept there until they hatch. The young are generally planktonic and in most species look like miniature cydippids, gradually changing into their adult shapes as they grow. The exceptions are the beroids, whose young are miniature beroids with large mouths and no tentacles, and the platyctenids, whose young live as cydippid-like plankton until they reach near-adult size, but then sink to the bottom and rapidly metamorphose into the adult form. In at least some species, juveniles are capable of reproduction before reaching the adult size and shape. The combination of hermaphroditism and early reproduction enables small populations to grow at an explosive rate.",
+    "answers": []
+  },
+  {
+    "id": "5ad3f350604f3c001a3ff8f1",
+    "is_impossible": true,
+    "question": "Who made Robert of Jumieges earl of Hereford?",
+    "passage": "When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumièges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.",
+    "answers": []
+  },
+  {
+    "id": "5ad25f29d7d075001a428f60",
+    "is_impossible": true,
+    "question": "How far is New Paltz from New York?",
+    "passage": "Huguenot immigrants did not disperse or settle in different parts of the country, but rather, formed three societies or congregations; one in the city of New York, another 21 miles north of New York in a town which they named New Rochelle, and a third further upstate in New Paltz. The \"Huguenot Street Historic District\" in New Paltz has been designated a National Historic Landmark site and contains the oldest street in the United States of America. A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named.",
+    "answers": []
+  },
+  {
+    "id": "5ad0206677cf76001a686afc",
+    "is_impossible": true,
+    "question": "Where is Los Angeles a district of?",
+    "passage": "The motion picture, television, and music industry is centered on the Los Angeles in southern California. Hollywood, a district within Los Angeles, is also a name associated with the motion picture industry. Headquartered in southern California are The Walt Disney Company (which also owns ABC), Sony Pictures, Universal, MGM, Paramount Pictures, 20th Century Fox, and Warner Brothers. Universal, Warner Brothers, and Sony also run major record companies as well.",
+    "answers": []
+  },
+  {
+    "id": "5730a4d02461fd1900a9cf2b",
+    "is_impossible": false,
+    "question": "Where did France focus its efforts to rebuild its empire?",
+    "passage": "France took control of Algeria in 1830 but began in earnest to rebuild its worldwide empire after 1850, concentrating chiefly in North and West Africa, as well as South-East Asia, with other conquests in Central and East Africa, as well as the South Pacific. Republicans, at first hostile to empire, only became supportive when Germany started to build her own colonial empire. As it developed, the new empire took on roles of trade with France, supplying raw materials and purchasing manufactured items, as well as lending prestige to the motherland and spreading French civilization and language as well as Catholicism. It also provided crucial manpower in both World Wars.",
+    "answers": [
+      "Africa",
+      "North and West Africa",
+      "North and West Africa",
+      "North and West Africa, as well as South-East Asia, with other conquests in Central and East Africa, as well as the South Pacific",
+      "North and West Africa, as well as South-East Asia,"
+    ]
+  },
+  {
+    "id": "5ad02fdf77cf76001a686d98",
+    "is_impossible": true,
+    "question": "The Presiding Officer tries the achieve a balance between similar viewpoints and whom?",
+    "passage": "The Presiding Officer (or Deputy Presiding Officer) decides who speaks in chamber debates and the amount of time for which they are allowed to speak. Normally, the Presiding Officer tries to achieve a balance between different viewpoints and political parties when selecting members to speak. Typically, ministers or party leaders open debates, with opening speakers given between 5 and 20 minutes, and succeeding speakers allocated less time. The Presiding Officer can reduce speaking time if a large number of members wish to participate in the debate. Debate is more informal than in some parliamentary systems. Members may call each other directly by name, rather than by constituency or cabinet position, and hand clapping is allowed. Speeches to the chamber are normally delivered in English, but members may use Scots, Gaelic, or any other language with the agreement of the Presiding Officer. The Scottish Parliament has conducted debates in the Gaelic language.",
+    "answers": []
+  },
+  {
+    "id": "56e1c9bfe3433e1400423194",
+    "is_impossible": false,
+    "question": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+    "passage": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reductions, and the bound on the complexity of reductions, such as polynomial-time reductions or log-space reductions.",
+    "answers": [
+      "reduces",
+      "reduces",
+      "X reduces to Y"
+    ]
+  },
+  {
+    "id": "5a679f83f038b7001ab0c366",
+    "is_impossible": true,
+    "question": "What happened to schools after Chinese independence in 1957?",
+    "passage": "After Malaysia's independence in 1957, the government instructed all schools to surrender their properties and be assimilated into the National School system. This caused an uproar among the Chinese and a compromise was achieved in that the schools would instead become \"National Type\" schools. Under such a system, the government is only in charge of the school curriculum and teaching personnel while the lands still belonged to the schools. While Chinese primary schools were allowed to retain Chinese as the medium of instruction, Chinese secondary schools are required to change into English-medium schools. Over 60 schools converted to become National Type schools.",
+    "answers": []
+  },
+  {
+    "id": "572ff626947a6a140053ce91",
+    "is_impossible": false,
+    "question": "What have the two different Islamist movements been described as oscillating between?",
+    "passage": "Islamism, also known as Political Islam (Arabic: إسلام سياسي‎ islām siyāsī), is an Islamic revival movement often characterized by moral conservatism, literalism, and the attempt \"to implement Islamic values in all spheres of life.\" Islamism favors the reordering of government and society in accordance with the Shari'a. The different Islamist movements have been described as \"oscillating between two poles\": at one end is a strategy of Islamization of society through state power seized by revolution or invasion; at the other \"reformist\" pole Islamists work to Islamize society gradually \"from the bottom up\". The movements have \"arguably altered the Middle East more than any trend since the modern states gained independence\", redefining \"politics and even borders\" according to one journalist (Robin Wright).",
+    "answers": [
+      "poles",
+      "two poles",
+      "poles"
+    ]
+  },
+  {
+    "id": "5a6ceb7a4eec6b001a80a6d0",
+    "is_impossible": true,
+    "question": "What is the slowest growing area in the pharmaceutical industry?",
+    "passage": "Specialty pharmacies supply high cost injectable, oral, infused, or inhaled medications that are used for chronic and complex disease states such as cancer, hepatitis, and rheumatoid arthritis. Unlike a traditional community pharmacy where prescriptions for any common medication can be brought in and filled, specialty pharmacies carry novel medications that need to be properly stored, administered, carefully monitored, and clinically managed. In addition to supplying these drugs, specialty pharmacies also provide lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs. It is currently the fastest growing sector of the pharmaceutical industry with 19 of 28 newly FDA approved medications in 2013 being specialty drugs.",
+    "answers": []
+  },
+  {
+    "id": "56e1c4fce3433e1400423150",
+    "is_impossible": false,
+    "question": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+    "passage": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems.",
+    "answers": [
+      "quantum",
+      "quantum",
+      "quantum"
+    ]
+  },
+  {
+    "id": "57106185b654c5140001f8dd",
+    "is_impossible": false,
+    "question": "What Swiss city was the center of the Calvinist movement?",
+    "passage": "A term used originally in derision, Huguenot has unclear origins. Various hypotheses have been promoted. The nickname may have been a combined reference to the Swiss politician Besançon Hugues (died 1532) and the religiously conflicted nature of Swiss republicanism in his time, using a clever derogatory pun on the name Hugues by way of the Dutch word Huisgenoten (literally housemates), referring to the connotations of a somewhat related word in German Eidgenosse (Confederates as in \"a citizen of one of the states of the Swiss Confederacy\"). Geneva was John Calvin's adopted home and the centre of the Calvinist movement. In Geneva, Hugues, though Catholic, was a leader of the \"Confederate Party\", so called because it favoured independence from the Duke of Savoy through an alliance between the city-state of Geneva and the Swiss Confederation. The label Huguenot was purportedly first applied in France to those conspirators (all of them aristocratic members of the Reformed Church) involved in the Amboise plot of 1560: a foiled attempt to wrest power in France from the influential House of Guise. The move would have had the side effect of fostering relations with the Swiss. Thus, Hugues plus Eidgenosse by way of Huisgenoten supposedly became Huguenot, a nickname associating the Protestant cause with politics unpopular in France.[citation needed]",
+    "answers": [
+      "Geneva",
+      "Geneva",
+      "Geneva"
+    ]
+  },
+  {
+    "id": "572a07fc6aef0514001551dc",
+    "is_impossible": false,
+    "question": "What molecules of the adaptive immune system only exist in jawed vertebrates?",
+    "passage": "Evolution of the adaptive immune system occurred in an ancestor of the jawed vertebrates. Many of the classical molecules of the adaptive immune system (e.g., immunoglobulins and T cell receptors) exist only in jawed vertebrates. However, a distinct lymphocyte-derived molecule has been discovered in primitive jawless vertebrates, such as the lamprey and hagfish. These animals possess a large array of molecules called Variable lymphocyte receptors (VLRs) that, like the antigen receptors of jawed vertebrates, are produced from only a small number (one or two) of genes. These molecules are believed to bind pathogenic antigens in a similar way to antibodies, and with the same degree of specificity.",
+    "answers": [
+      "immunoglobulins and T cell receptors",
+      "immunoglobulins and T cell receptors",
+      "immunoglobulins"
+    ]
+  },
+  {
+    "id": "5a6cefd64eec6b001a80a70a",
+    "is_impossible": true,
+    "question": "Which countries use the red Greek cross as a symbol of pharmacy?",
+    "passage": "The two symbols most commonly associated with pharmacy in English-speaking countries are the mortar and pestle and the ℞ (recipere) character, which is often written as \"Rx\" in typed text. The show globe was also used until the early 20th century. Pharmacy organizations often use other symbols, such as the Bowl of Hygieia which is often used in the Netherlands, conical measures, and caduceuses in their logos. Other symbols are common in different countries: the green Greek cross in France, Argentina, the United Kingdom, Belgium, Ireland, Italy, Spain, and India, the increasingly rare Gaper in the Netherlands, and a red stylized letter A in Germany and Austria (from Apotheke, the German word for pharmacy, from the same Greek root as the English word 'apothecary').",
+    "answers": []
+  },
+  {
+    "id": "5a836496e60761001a2eb65a",
+    "is_impossible": true,
+    "question": "What direction do cilia usually swim?",
+    "passage": "The outer surface bears usually eight comb rows, called swimming-plates, which are used for swimming. The rows are oriented to run from near the mouth (the \"oral pole\") to the opposite end (the \"aboral pole\"), and are spaced more or less evenly around the body, although spacing patterns vary by species and in most species the comb rows extend only part of the distance from the aboral pole towards the mouth. The \"combs\" (also called \"ctenes\" or \"comb plates\") run across each row, and each consists of thousands of unusually long cilia, up to 2 millimeters (0.079 in). Unlike conventional cilia and flagella, which has a filament structure arranged in a 9 + 2 pattern, these cilia are arranged in a 9 + 3 pattern, where the extra compact filament is suspected to have a supporting function. These normally beat so that the propulsion stroke is away from the mouth, although they can also reverse direction. Hence ctenophores usually swim in the direction in which the mouth is pointing, unlike jellyfish. When trying to escape predators, one species can accelerate to six times its normal speed; some other species reverse direction as part of their escape behavior, by reversing the power stroke of the comb plate cilia.",
+    "answers": []
+  },
+  {
+    "id": "5ad24e85d7d075001a428c4e",
+    "is_impossible": true,
+    "question": "How many French people fled to Prussia?",
+    "passage": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration. It proved disastrous to the Huguenots and costly for France. It precipitated civil bloodshed, ruined commerce, and resulted in the illegal flight from the country of hundreds of thousands of Protestants, many of whom became intellectuals, doctors and business leaders in Britain as well as Holland, Prussia, and South Africa. Four thousand emigrated to the North American colonies, where they settled in New York and Virginia, especially. The English welcomed the French refugees, providing money from both government and private agencies to aid their relocation. Those Huguenots who stayed in France became Catholics and were called \"new converts\".",
+    "answers": []
+  },
+  {
+    "id": "57265c10f1498d1400e8dd37",
+    "is_impossible": false,
+    "question": "What happens when bathocyroe and ocyropsis clap their lobes together?",
+    "passage": "Lobates have eight comb-rows, originating at the aboral pole and usually not extending beyond the body to the lobes; in species with (four) auricles, the cilia edging the auricles are extensions of cilia in four of the comb rows. Most lobates are quite passive when moving through the water, using the cilia on their comb rows for propulsion, although Leucothea has long and active auricles whose movements also contribute to propulsion. Members of the lobate genera Bathocyroe and Ocyropsis can escape from danger by clapping their lobes, so that the jet of expelled water drives them backwards very quickly. Unlike cydippids, the movements of lobates' combs are coordinated by nerves rather than by water disturbances created by the cilia, yet combs on the same row beat in the same Mexican wave style as the mechanically coordinated comb rows of cydippids and beroids. This may have enabled lobates to grow larger than cydippids and to have shapes that are less egg-like.",
+    "answers": [
+      "jet of expelled water drives them backwards very quickly.",
+      "jet of expelled water drives them backwards very quickly",
+      "expelled water drives them backwards very quickly"
+    ]
+  },
+  {
+    "id": "571c3a685efbb31900334db3",
+    "is_impossible": false,
+    "question": "Of what group in the periodic table is oxygen a member?",
+    "passage": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. However, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil-fuel burning. Oxygen is the most abundant element by mass in the Earth's crust as part of oxide compounds such as silicon dioxide, making up almost half of the crust's mass.",
+    "answers": [
+      "chalcogen",
+      "chalcogen",
+      "chalcogen",
+      "chalcogen",
+      "the chalcogen group"
+    ]
+  },
+  {
+    "id": "572ff430a23a5019007fcba9",
+    "is_impossible": false,
+    "question": "What part of the Rhine flows through North Rhine-Westphalia?",
+    "passage": "The Lower Rhine flows through North Rhine-Westphalia. Its banks are usually heavily populated and industrialized, in particular the agglomerations Cologne, Düsseldorf and Ruhr area. Here the Rhine flows through the largest conurbation in Germany, the Rhine-Ruhr region. One of the most important cities in this region is Duisburg with the largest river port in Europe (Duisport). The region downstream of Duisburg is more agricultural. In Wesel, 30 km downstream of Duisburg, is located the western end of the second east-west shipping route, the Wesel-Datteln Canal, which runs parallel to the Lippe. Between Emmerich and Cleves the Emmerich Rhine Bridge, the longest suspension bridge in Germany, crosses the 400 m wide river. Near Krefeld, the river crosses the Uerdingen line, the line which separates the areas where Low German and High German are spoken.",
+    "answers": [
+      "Lower Rhine",
+      "Lower",
+      "Lower Rhine"
+    ]
+  },
+  {
+    "id": "5ad243a7d7d075001a428a07",
+    "is_impossible": true,
+    "question": "What is income inequality not attributed to?",
+    "passage": "Neoclassical economics views inequalities in the distribution of income as arising from differences in value added by labor, capital and land. Within labor income distribution is due to differences in value added by different classifications of workers. In this perspective, wages and profits are determined by the marginal value added of each economic actor (worker, capitalist/business owner, landlord). Thus, in a market economy, inequality is a reflection of the productivity gap between highly-paid professions and lower-paid professions.",
+    "answers": []
+  },
+  {
+    "id": "5a669800f038b7001ab0c03f",
+    "is_impossible": true,
+    "question": "Though the name was correct, all these services were managed by who?",
+    "passage": "Datanet 1 was the public switched data network operated by the Dutch PTT Telecom (now known as KPN). Strictly speaking Datanet 1 only referred to the network and the connected users via leased lines (using the X.121 DNIC 2041), the name also referred to the public PAD service Telepad (using the DNIC 2049). And because the main Videotex service used the network and modified PAD devices as infrastructure the name Datanet 1 was used for these services as well. Although this use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion.",
+    "answers": []
+  },
+  {
+    "id": "5a665002846392001a1e1ab7",
+    "is_impossible": true,
+    "question": "A constitutional impasse pertains to how a citizen relates to the state and what?",
+    "passage": "Civil disobedience is usually defined as pertaining to a citizen's relation to the state and its laws, as distinguished from a constitutional impasse in which two public agencies, especially two equally sovereign branches of government, conflict. For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.",
+    "answers": []
+  },
+  {
+    "id": "573792ee1c456719005744ba",
+    "is_impossible": false,
+    "question": "What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?",
+    "passage": "However, attempting to reconcile electromagnetic theory with two observations, the photoelectric effect, and the nonexistence of the ultraviolet catastrophe, proved troublesome. Through the work of leading theoretical physicists, a new theory of electromagnetism was developed using quantum mechanics. This final modification to electromagnetic theory ultimately led to quantum electrodynamics (or QED), which fully describes all electromagnetic phenomena as being mediated by wave–particles known as photons. In QED, photons are the fundamental exchange particle, which described all interactions relating to electromagnetism including the electromagnetic force.[Note 4]",
+    "answers": [
+      "quantum mechanics",
+      "quantum mechanics",
+      "quantum mechanics",
+      "the work of leading theoretical physicists"
+    ]
+  },
+  {
+    "id": "56e1efa0e3433e140042321d",
+    "is_impossible": false,
+    "question": "What implication can be derived for P and NP if P and co-NP are established to be unequal?",
+    "passage": "Along the same lines, co-NP is the class containing the complement problems (i.e. problems with the yes/no answers reversed) of NP problems. It is believed that NP is not equal to co-NP; however, it has not yet been proven. It has been shown that if these two complexity classes are not equal then P is not equal to NP.",
+    "answers": [
+      "P is not equal to NP",
+      "not equal",
+      "P is not equal to NP"
+    ]
+  },
+  {
+    "id": "5a8930573b2508001a72a505",
+    "is_impossible": true,
+    "question": "What is the name of one type of test where p+1 or p-1 takes a certain shape?",
+    "passage": "are prime. Prime numbers of this form are known as factorial primes. Other primes where either p + 1 or p − 1 is of a particular shape include the Sophie Germain primes (primes of the form 2p + 1 with p prime), primorial primes, Fermat primes and Mersenne primes, that is, prime numbers that are of the form 2p − 1, where p is an arbitrary prime. The Lucas–Lehmer test is particularly fast for numbers of this form. This is why the largest known prime has almost always been a Mersenne prime since the dawn of electronic computers.",
+    "answers": []
+  },
+  {
+    "id": "5acfe69177cf76001a6863c2",
+    "is_impossible": true,
+    "question": " Why don't Islamists need democratic elections?",
+    "passage": "Another major division within Islamism is between what Graham E. Fuller has described as the fundamentalist \"guardians of the tradition\" (Salafis, such as those in the Wahhabi movement) and the \"vanguard of change and Islamic reform\" centered around the Muslim Brotherhood. Olivier Roy argues that \"Sunni pan-Islamism underwent a remarkable shift in the second half of the 20th century\" when the Muslim Brotherhood movement and its focus on Islamisation of pan-Arabism was eclipsed by the Salafi movement with its emphasis on \"sharia rather than the building of Islamic institutions,\" and rejection of Shia Islam. Following the Arab Spring, Roy has described Islamism as \"increasingly interdependent\" with democracy in much of the Arab Muslim world, such that \"neither can now survive without the other.\" While Islamist political culture itself may not be democratic, Islamists need democratic elections to maintain their legitimacy. At the same time, their popularity is such that no government can call itself democratic that excludes mainstream Islamist groups.",
+    "answers": []
+  },
+  {
+    "id": "5a55234d134fea001a0e1975",
+    "is_impossible": true,
+    "question": "Who spread awareness of national networking? ",
+    "passage": "The Computer Science Network (CSNET) was a computer network funded by the U.S. National Science Foundation (NSF) that began operation in 1981. Its purpose was to extend networking benefits, for computer science departments at academic and research institutions that could not be directly connected to ARPANET, due to funding or authorization limitations. It played a significant role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet.",
+    "answers": []
+  },
+  {
+    "id": "5ad26278d7d075001a4290b0",
+    "is_impossible": true,
+    "question": "In what year had Manakin Town first been abandoned?",
+    "passage": "In 1700 several hundred French Huguenots migrated from England to the colony of Virginia, where the English Crown had promised them land grants in Lower Norfolk County. When they arrived, colonial authorities offered them instead land 20 miles above the falls of the James River, at the abandoned Monacan village known as Manakin Town, now in Powhatan County. Some settlers landed in present-day Chesterfield County. On 12 May 1705, the Virginia General Assembly passed an act to naturalise the 148 Huguenots still resident at Manakintown. Of the original 390 settlers in the isolated settlement, many had died; others lived outside town on farms in the English style; and others moved to different areas. Gradually they intermarried with their English neighbors. Through the 18th and 19th centuries, descendants of the French migrated west into the Piedmont, and across the Appalachian Mountains into the West of what became Kentucky, Tennessee, Missouri, and other states. In the Manakintown area, the Huguenot Memorial Bridge across the James River and Huguenot Road were named in their honor, as were many local features, including several schools, including Huguenot High School.",
+    "answers": []
+  },
+  {
+    "id": "5ad3b826604f3c001a3fee4b",
+    "is_impossible": true,
+    "question": "During withdrawal from Fort William Henry, what did some Indian enemies of French do?",
+    "passage": "French irregular forces (Canadian scouts and Indians) harassed Fort William Henry throughout the first half of 1757. In January they ambushed British rangers near Ticonderoga. In February they launched a daring raid against the position across the frozen Lake George, destroying storehouses and buildings outside the main fortification. In early August, Montcalm and 7,000 troops besieged the fort, which capitulated with an agreement to withdraw under parole. When the withdrawal began, some of Montcalm's Indian allies, angered at the lost opportunity for loot, attacked the British column, killing and capturing several hundred men, women, children, and slaves. The aftermath of the siege may have contributed to the transmission of smallpox into remote Indian populations; as some Indians were reported to have traveled from beyond the Mississippi to participate in the campaign and returned afterward having been exposed to European carriers.",
+    "answers": []
+  },
+  {
+    "id": "5ad265efd7d075001a4291d3",
+    "is_impossible": true,
+    "question": "What is the partial pressure of O in breathing gas?",
+    "passage": "Breathing pure O\n2 in space applications, such as in some modern space suits, or in early spacecraft such as Apollo, causes no damage due to the low total pressures used. In the case of spacesuits, the O\n2 partial pressure in the breathing gas is, in general, about 30 kPa (1.4 times normal), and the resulting O\n2 partial pressure in the astronaut's arterial blood is only marginally more than normal sea-level O\n2 partial pressure (for more information on this, see space suit and arterial blood gas).",
+    "answers": []
+  },
+  {
+    "id": "5a550e6f134fea001a0e187f",
+    "is_impossible": true,
+    "question": "What is level two of the connection-orientated operation? ",
+    "passage": "Both X.25 and Frame Relay provide connection-oriented operations. But X.25 does it at the network layer of the OSI Model. Frame Relay does it at level two, the data link layer. Another major difference between X.25 and Frame Relay is that X.25 requires a handshake between the communicating parties before any user packets are transmitted. Frame Relay does not define any such handshakes. X.25 does not define any operations inside the packet network. It only operates at the user-network-interface (UNI). Thus, the network provider is free to use any procedure it wishes inside the network. X.25 does specify some limited re-transmission procedures at the UNI, and its link layer protocol (LAPB) provides conventional HDLC-type link management procedures. Frame Relay is a modified version of ISDN's layer two protocol, LAPD and LAPB. As such, its integrity operations pertain only between nodes on a link, not end-to-end. Any retransmissions must be carried out by higher layer protocols. The X.25 UNI protocol is part of the X.25 protocol suite, which consists of the lower three layers of the OSI Model. It was widely used at the UNI for packet switching networks during the 1980s and early 1990s, to provide a standardized interface into and out of packet networks. Some implementations used X.25 within the network as well, but its connection-oriented features made this setup cumbersome and inefficient. Frame relay operates principally at layer two of the OSI Model. However, its address field (the Data Link Connection ID, or DLCI) can be used at the OSI network layer, with a minimum set of procedures. Thus, it rids itself of many X.25 layer 3 encumbrances, but still has the DLCI as an ID beyond a node-to-node layer two link protocol. The simplicity of Frame Relay makes it faster and more efficient than X.25. Because Frame relay is a data link layer protocol, like X.25 it does not define internal network routing operations. For X.25 its packet IDs---the virtual circuit and virtual channel numbers have to be correlated to network addresses. The same is true for Frame Relays DLCI. How this is done is up to the network provider. Frame Relay, by virtue of having no network layer procedures is connection-oriented at layer two, by using the HDLC/LAPD/LAPB Set Asynchronous Balanced Mode (SABM). X.25 connections are typically established for each communication session, but it does have a feature allowing a limited amount of traffic to be passed across the UNI without the connection-oriented handshake. For a while, Frame Relay was used to interconnect LANs across wide area networks. However, X.25 and well as Frame Relay have been supplanted by the Internet Protocol (IP) at the network layer, and the Asynchronous Transfer Mode (ATM) and or versions of Multi-Protocol Label Switching (MPLS) at layer two. A typical configuration is to run IP over ATM or a version of MPLS. <Uyless Black, X.25 and Related Protocols, IEEE Computer Society, 1991> <Uyless Black, Frame Relay Networks, McGraw-Hill, 1998> <Uyless Black, MPLS and Label Switching Networks, Prentice Hall, 2001> < Uyless Black, ATM, Volume I, Prentice Hall, 1995>",
+    "answers": []
+  },
+  {
+    "id": "5725c95f38643c19005accf5",
+    "is_impossible": false,
+    "question": "What would be needed to host a larger population?",
+    "passage": "For a long time, it was thought that the Amazon rainforest was only ever sparsely populated, as it was impossible to sustain a large population through agriculture given the poor soil. Archeologist Betty Meggers was a prominent proponent of this idea, as described in her book Amazonia: Man and Culture in a Counterfeit Paradise. She claimed that a population density of 0.2 inhabitants per square kilometre (0.52/sq mi) is the maximum that can be sustained in the rainforest through hunting, with agriculture needed to host a larger population. However, recent anthropological findings have suggested that the region was actually densely populated. Some 5 million people may have lived in the Amazon region in AD 1500, divided between dense coastal settlements, such as that at Marajó, and inland dwellers. By 1900 the population had fallen to 1 million and by the early 1980s it was less than 200,000.",
+    "answers": [
+      "agriculture",
+      "agriculture",
+      "agriculture"
+    ]
+  },
+  {
+    "id": "5729f0db6aef051400155126",
+    "is_impossible": false,
+    "question": "The Amazon region is home to how many species of insect?",
+    "passage": "The region is home to about 2.5 million insect species, tens of thousands of plants, and some 2,000 birds and mammals. To date, at least 40,000 plant species, 2,200 fishes, 1,294 birds, 427 mammals, 428 amphibians, and 378 reptiles have been scientifically classified in the region. One in five of all the bird species in the world live in the rainforests of the Amazon, and one in five of the fish species live in Amazonian rivers and streams. Scientists have described between 96,660 and 128,843 invertebrate species in Brazil alone.",
+    "answers": [
+      "2.5 million",
+      "about 2.5 million",
+      "2.5 million"
+    ]
+  },
+  {
+    "id": "5733a560d058e614000b5f7b",
+    "is_impossible": false,
+    "question": "What did a greedy merchant do to the mermaid?",
+    "passage": "The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.",
+    "answers": [
+      "captured",
+      "captured the mermaid",
+      "captured"
+    ]
+  },
+  {
+    "id": "57108c95b654c5140001f97c",
+    "is_impossible": false,
+    "question": "What is located within this district?",
+    "passage": "Huguenot immigrants did not disperse or settle in different parts of the country, but rather, formed three societies or congregations; one in the city of New York, another 21 miles north of New York in a town which they named New Rochelle, and a third further upstate in New Paltz. The \"Huguenot Street Historic District\" in New Paltz has been designated a National Historic Landmark site and contains the oldest street in the United States of America. A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named.",
+    "answers": [
+      "the oldest street in the United States of America",
+      "the oldest street in the United States of America",
+      "the oldest street in the United States of America"
+    ]
+  },
+  {
+    "id": "56e1e9dfe3433e14004231fc",
+    "is_impossible": false,
+    "question": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+    "passage": "The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic. An important unsolved problem in complexity theory is whether the graph isomorphism problem is in P, NP-complete, or NP-intermediate. The answer is not known, but it is believed that the problem is at least not NP-complete. If graph isomorphism is NP-complete, the polynomial time hierarchy collapses to its second level. Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not NP-complete. The best algorithm for this problem, due to Laszlo Babai and Eugene Luks has run time 2O(√(n log(n))) for graphs with n vertices.",
+    "answers": [
+      "The graph isomorphism problem",
+      "graph isomorphism",
+      "The graph isomorphism problem"
+    ]
+  },
+  {
+    "id": "572fc80b04bcaa1900d76d11",
+    "is_impossible": false,
+    "question": "When are subject committees established?",
+    "passage": "Subject Committees are established at the beginning of each parliamentary session, and again the members on each committee reflect the balance of parties across Parliament. Typically each committee corresponds with one (or more) of the departments (or ministries) of the Scottish Government. The current Subject Committees in the fourth Session are: Economy, Energy and Tourism; Education and Culture; Health and Sport; Justice; Local Government and Regeneration; Rural Affairs, Climate Change and Environment; Welfare Reform; and Infrastructure and Capital Investment.",
+    "answers": [
+      "beginning of each parliamentary session",
+      "beginning of each parliamentary session",
+      "at the beginning of each parliamentary session"
+    ]
+  },
+  {
+    "id": "5ad25f35d7d075001a428f6c",
+    "is_impossible": true,
+    "question": "What is carbon monoxide poisonous to that can cause gas gangrene?",
+    "passage": "Hyperbaric (high-pressure) medicine uses special oxygen chambers to increase the partial pressure of O\n2 around the patient and, when needed, the medical staff. Carbon monoxide poisoning, gas gangrene, and decompression sickness (the 'bends') are sometimes treated using these devices. Increased O\n2 concentration in the lungs helps to displace carbon monoxide from the heme group of hemoglobin. Oxygen gas is poisonous to the anaerobic bacteria that cause gas gangrene, so increasing its partial pressure helps kill them. Decompression sickness occurs in divers who decompress too quickly after a dive, resulting in bubbles of inert gas, mostly nitrogen and helium, forming in their blood. Increasing the pressure of O\n2 as soon as possible is part of the treatment.",
+    "answers": []
+  },
+  {
+    "id": "572a05eb3f37b31900478655",
+    "is_impossible": false,
+    "question": "Persistent unemployment has what effect on long-term economic growth?",
+    "passage": "2013 Economics Nobel prize winner Robert J. Shiller said that rising inequality in the United States and elsewhere is the most important problem. Increasing inequality harms economic growth. High and persistent unemployment, in which inequality increases, has a negative effect on subsequent long-run economic growth. Unemployment can harm growth not only because it is a waste of resources, but also because it generates redistributive pressures and subsequent distortions, drives people to poverty, constrains liquidity limiting labor mobility, and erodes self-esteem promoting social dislocation, unrest and conflict. Policies aiming at controlling unemployment and in particular at reducing its inequality-associated effects support economic growth.",
+    "answers": [
+      "negative",
+      "negative effect",
+      "negative"
+    ]
+  },
+  {
+    "id": "5733140a4776f419006606e1",
+    "is_impossible": false,
+    "question": "What city served as Poland's capital in 1313?",
+    "passage": "The first historical reference to Warsaw dates back to the year 1313, at a time when Kraków served as the Polish capital city. Due to its central location between the Polish–Lithuanian Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte. In accordance with the decisions of the Congress of Vienna, the Russian Empire annexed Warsaw in 1815 and it became part of the \"Congress Kingdom\". Only in 1918 did it regain independence from the foreign rule and emerge as a new capital of the independent Republic of Poland. The German invasion in 1939, the massacre of the Jewish population and deportations to concentration camps led to the uprising in the Warsaw ghetto in 1943 and to the major and devastating Warsaw Uprising between August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military decoration for heroism, the Virtuti Militari, during the Siege of Warsaw (1939).",
+    "answers": [
+      "Kraków",
+      "Kraków",
+      "Kraków"
+    ]
+  },
+  {
+    "id": "5ad3bbcc604f3c001a3feecd",
+    "is_impossible": true,
+    "question": "In Sept 1706 who negotiated a capitulation from Montreal?",
+    "passage": "In September 1760, and before any hostilities erupted, Governor Vaudreuil negotiated from Montreal a capitulation with General Amherst. Amherst granted Vaudreuil's request that any French residents who chose to remain in the colony would be given freedom to continue worshiping in their Roman Catholic tradition, continued ownership of their property, and the right to remain undisturbed in their homes. The British provided medical treatment for the sick and wounded French soldiers and French regular troops were returned to France aboard British ships with an agreement that they were not to serve again in the present war.",
+    "answers": []
+  }
+]
