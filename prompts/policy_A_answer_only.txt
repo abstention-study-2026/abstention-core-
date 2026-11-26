@@ -1,0 +1,9 @@
+You are given a passage and a question. Answer the question using ONLY the passage.
+If the passage does not contain enough information to answer, reply with exactly: UNANSWERABLE
+Otherwise reply with the answer in a few words and nothing else.
+
+Passage: {passage}
+
+Question: {question}
+
+Answer:
