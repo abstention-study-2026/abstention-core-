@@ -1,0 +1,9 @@
+You are given a passage and a question. Answer the question using ONLY the passage.
+If the passage does not contain enough information to answer, reply with UNANSWERABLE.
+Reply in exactly this format:
+ANSWER: <a few words, or UNANSWERABLE>
+CONFIDENCE: <integer from 0 to 100: how likely your answer is correct>
+
+Passage: {passage}
+
+Question: {question}
